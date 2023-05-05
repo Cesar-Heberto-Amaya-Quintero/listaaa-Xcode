@@ -80,6 +80,9 @@
                             <constraint firstAttribute="bottom" secondItem="nAz-K2-zK1" secondAttribute="bottom" id="xcM-dN-2cg"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="tvPeliculas" destination="nAz-K2-zK1" id="1Rp-Cw-0ug"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
